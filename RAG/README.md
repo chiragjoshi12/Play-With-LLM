@@ -1,6 +1,6 @@
 # Retrieval Augmented Generation Engine using LangChain & weaviate DB
 
-[Kaggle Notebook](https://retrieval-augmented-generation.streamlit.app/)
+[Kaggle Notebook](https://www.kaggle.com/code/chiragjoshi12/building-a-rag-with-langchain-weaviate-db)
 
 ## Understnad : How our notebook work ?
 ![Demo](https://python.langchain.com/assets/images/data_connection-95ff2033a8faa5f3ba41376c0f6dd32a.jpg)
